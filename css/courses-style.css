@@ -5,3 +5,9 @@
 #Features{
     color: #666666;
 }
+#model1 , #model2 , #model3 , #model4 {
+    cursor: pointer;
+}
+#plans1 , #plans2 , #plans3 ,#plans4{
+    display: none;
+}
